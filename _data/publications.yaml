@@ -7,12 +7,12 @@ papers:
     selected: y
 
   - title: "[C2] DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models"
-    authors: "<a href='https://daewon88.github.io/'>Daewon Chae<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></u></b>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim<sup>^</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee<sup>^</sup></a>"
+    authors: "<a href='https://daewon88.github.io/'>Daewon Chae<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim<sup>^</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee<sup>^</sup></a>"
     venue: "AAAI Conference on Artificial Intelligence (AAAI), 2025"
     selected: y
 
   - title: "[P1] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
-    authors: "<a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group/'>Dongyoon Hahm<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></u></b>, <a href='https://bradknox.net/'>W. Bradley Knox</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    authors: "<a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group/'>Dongyoon Hahm<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://bradknox.net/'>W. Bradley Knox</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
     venue: "Preprint"
     website: "https://mobilesafetybench.github.io/"
     arxiv: "https://arxiv.org/abs/2410.17520"
