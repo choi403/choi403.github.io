@@ -11,18 +11,18 @@ papers:
     venue: "AAAI Conference on Artificial Intelligence (AAAI), 2025"
     selected: y
 
-  - title: "[P1] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
-    authors: "<a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group/'>Dongyoon Hahm<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://bradknox.net/'>W. Bradley Knox</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
-    venue: "Preprint"
-    website: "https://mobilesafetybench.github.io/"
-    arxiv: "https://arxiv.org/abs/2410.17520"
-    code: "https://github.com/jylee425/mobilesafetybench"
-    selected: y
-
   - title: "[C1] Collaborative Score Distillation for Consistent Visual Editing"
     authors: "<a href='https://subin-kim-cv.github.io/'>Subin Kim<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://kyungmnlee.github.io/'>Kyungmin Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi</u></b>, <a href='https://jh-jeong.github.io/'>Jongheon Jeong</a>, <a href='https://sites.google.com/site/kihyuksml/'>Kihyuk Sohn</a>, <a href='https://alinlab.kaist.ac.kr/shin.html'>Jinwoo Shin</a>"
     venue: "Conference on Neural Information Processing Systems (NeurIPS), 2023"
     website: "https://subin-kim-cv.github.io/CSD/"
     arxiv: "https://arxiv.org/abs/2307.04787"
     code: "https://github.com/subin-kim-cv/CSD/"
+    selected: y
+
+  - title: "[P1] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
+    authors: "<a href='https://jylee425.github.io/'>Juyong Lee<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <a href='https://sites.google.com/view/kiminlee/group/'>Dongyoon Hahm<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://bradknox.net/'>W. Bradley Knox</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "Preprint"
+    website: "https://mobilesafetybench.github.io/"
+    arxiv: "https://arxiv.org/abs/2410.17520"
+    code: "https://github.com/jylee425/mobilesafetybench"
     selected: y
