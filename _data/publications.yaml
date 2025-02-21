@@ -8,7 +8,8 @@ papers:
 
   - title: "[C2] DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models"
     authors: "<a href='https://daewon88.github.io/'>Daewon Chae<sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></a>, <b><u>June Suk Choi</u><sup style='position: relative; top: 7px; font-size: 1.9em;'>*</sup></b>, <a href='https://visionai.korea.ac.kr/'>Jinkyu Kim<sup>^</sup></a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee<sup>^</sup></a>"
-    venue: "AAAI Conference on Artificial Intelligence (AAAI), 2025"
+    venue: "AAAI Conference on Artificial Intelligence (AAAI), 2025<br><span style='color:#ff0a33; font-style:normal;'>Oral Presentation</span>"
+    arxiv: https://arxiv.org/abs/2502.14070
     selected: y
 
   - title: "[C1] Collaborative Score Distillation for Consistent Visual Editing"
