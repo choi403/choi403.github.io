@@ -2,6 +2,7 @@ papers:
   - title: "[C4] Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models"
     authors: "<a href='https://agwmon.github.io/'>Sangwon Jang</a>, <b><u>June Suk Choi</u></b>, <a href='https://harryjo97.github.io/'>Jaehyeong Jo</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee<sup>^</sup></a>, <a href='http://www.sungjuhwang.com/'>Sung Ju Hwang<sup>^</sup></a>"
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2025"
+    website: "https://silent-branding.github.io/"
     selected: y
 
   - title: "[C3] DiffusionGuard: A Robust Defense Against Malicious Diffusion-based Image Editing"
