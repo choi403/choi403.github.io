@@ -1,4 +1,9 @@
 papers:
+  - title: "[C5] Enhancing LLM Agent Safety via Causal Influence Prompting"
+    authors: "<a href='https://sites.google.com/view/kiminlee/group'>Dongyoon Hahm</a>, <a href='https://sites.google.com/view/kiminlee/group'>Woogyeol Jin</a>, <b><u>June Suk Choi</u></b>, <a href='https://sites.google.com/view/sungsooahn0215'>Sungsoo Ahn</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee</a>"
+    venue: "Findings of the Association for Computational Linguistic <b>(ACL Findings)</b>, 2025"
+    selected: y
+
   - title: "[C4] Silent Branding Attack: Trigger-free Data Poisoning Attack on Text-to-Image Diffusion Models"
     authors: "<a href='https://agwmon.github.io/'>Sangwon Jang</a>, <b><u>June Suk Choi</u></b>, <a href='https://harryjo97.github.io/'>Jaehyeong Jo</a>, <a href='https://sites.google.com/view/kiminlee/'>Kimin Lee<sup>^</sup></a>, <a href='http://www.sungjuhwang.com/'>Sung Ju Hwang<sup>^</sup></a>"
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2025"
