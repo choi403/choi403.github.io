@@ -53,6 +53,19 @@ h3 {
 
 .paper-title {
   padding: 1px 0px 1px 0px;
+  text-align: center;
+}
+.paper-title h1 {
+  margin: 0.67em 0 0.5em 0; /* explicit default-ish margin so it’s easy to tweak */
+}
+.paper-venue {
+  margin-top: 0px;
+  margin-bottom: 24px;
+  font-size: 22px;
+  font-weight: 400;
+  color: #335263;
+  letter-spacing: 0.5px;
+  display: inline-block;
 }
 section {
   margin: 32px 0px 32px 0px;
@@ -693,4 +706,3 @@ video::-webkit-media-controls-start-playback-button {
   50%  { opacity: 1; transform: scale(1.1); }
   100% { opacity: 1; transform: scale(0.99); }
 }
-
