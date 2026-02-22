@@ -4,7 +4,7 @@ papers:
     venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition <b>(CVPR)</b>, 2026"
     arxiv: "https://arxiv.org/abs/2506.08456"
     code: "https://github.com/choi403/ALG"
-    website: "https://choi403.github.io/ALG"
+    website: "https://choi403.github.io/ALG/"
     selected: y
 
   - title: "[C6] MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control"
