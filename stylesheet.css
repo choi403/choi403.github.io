@@ -133,3 +133,10 @@ span.highlight {
 .honors {
     font-size: 10px
 }
+
+.paper-presentation {
+  color: #ff0a33;
+  font-style: normal;
+  font-weight: 700;
+  margin-top: -10px;
+}
